@@ -1,0 +1,10 @@
+{
+    "name": "nodejs-started",
+    "version": "0.1.0",
+    "description": "A nodejs project for beginners ",
+    "author": "Duvan Jamid Vargas Castillo",
+    "dependencies": {
+        "express": "^4.13.4"
+    },
+    "main": "server.js"
+}
